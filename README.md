@@ -1,5 +1,5 @@
 # Operating-Systems
-This repository contains the code for CS550: Operating Systems
+This repository contains the code studied during the course for CS550: Operating Systems as a part of my curriculum and learning
 
 # Part 1
 This consists of an understanding of how basic commands of Linux work
